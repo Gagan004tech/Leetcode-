@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gagan004tech/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagan004tech/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Gagan004tech/Leetcode-/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagan004tech/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Gagan004tech/Leetcode-/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gagan004tech/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Gagan004tech/Leetcode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
