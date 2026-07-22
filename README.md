@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -35,4 +36,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
