@@ -42,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagan004tech/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagan004tech/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
