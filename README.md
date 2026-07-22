@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Gagan004tech/Leetcode-/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Gagan004tech/Leetcode-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
