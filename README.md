@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gagan004tech/Leetcode-/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Gagan004tech/Leetcode-/tree/master/0046-permutations) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagan004tech/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +60,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagan004tech/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagan004tech/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
