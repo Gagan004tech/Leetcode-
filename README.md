@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gagan004tech/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Gagan004tech/Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gagan004tech/Leetcode-/tree/master/0213-house-robber-ii) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gagan004tech/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Gagan004tech/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Gagan004tech/Leetcode-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gagan004tech/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagan004tech/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
