@@ -14,6 +14,7 @@
 | [0070-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Gagan004tech/Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gagan004tech/Leetcode-/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/Gagan004tech/Leetcode-/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -62,6 +63,7 @@
 | [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gagan004tech/Leetcode-/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/Gagan004tech/Leetcode-/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gagan004tech/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Gagan004tech/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gagan004tech/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/Gagan004tech/Leetcode-/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
