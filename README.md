@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Gagan004tech/Leetcode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0322-coin-change](https://github.com/Gagan004tech/Leetcode-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Gagan004tech/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Gagan004tech/Leetcode-/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gagan004tech/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
@@ -105,6 +107,7 @@
 | [0049-group-anagrams](https://github.com/Gagan004tech/Leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Gagan004tech/Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gagan004tech/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gagan004tech/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
